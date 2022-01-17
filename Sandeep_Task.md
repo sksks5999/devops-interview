@@ -34,7 +34,7 @@ For source code please refer [here](https://github.com/sksks5999/devops-intervie
          
     - automating the build and deploying the application
         
-        source code is available here ![pipelines](pipelines)
+        source code is available here ![pipelines](Pipeline)
         
     - Update existing code in order to add API key in the below files 
         
@@ -42,14 +42,7 @@ For source code please refer [here](https://github.com/sksks5999/devops-intervie
         
         ![API key](Src/Presentation/BradyWeather.Blazor.Server/appsettings.json)
         
-  ### At the end of the exercise the application should look like below
-        
-     ![Alt text](screenshots/app_screenshot.png?raw=true "Optional Title")
-     
-     ![Alt text](screenshots/app_screenshot_2.png?raw=true "Optional Title")
-     
-     
-  ### Advantages of this soultion is easy to scale and maintain. This soultion is always highly avaiable.
+ 
       
     
        
