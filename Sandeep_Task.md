@@ -30,7 +30,7 @@ For source code please refer [here](https://github.com/sksks5999/devops-intervie
                 1.4 Storage account
                 1.5 storage container 
          ```
-       source code is available here ![infra](infrastructure) 
+       source code is available here ![infra](infra) 
          
     - automating the build and deploying the application
         
