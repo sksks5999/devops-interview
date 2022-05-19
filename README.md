@@ -18,7 +18,7 @@ At the end of the exercise the application should look like below.
 ![Blazor Weather](Docs/BlazorWeather.gif)
 
 ### The task
-Your task is to automate the provisioning of resources that host the app provided.
+Your task is to automate the provisioning of resources that host the app prosvided.
 It should be hosted in a highly available and scalable web application hosted in **Azure**. A free account can be created [here](https://azure.microsoft.com/en-gb/free/)
 for Azure.  In addition you are required to build and automate the deployment of the application provided. **Please use github actions.**
 
